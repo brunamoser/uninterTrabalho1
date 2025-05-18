@@ -1,0 +1,42 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-size: 25px;
+  text-align: justify;
+}
+
+ul {
+  line-height: 2;
+}
+
+img {
+  width: 300px;
+  border-radius: 25px;
+}
+
+table {
+  margin-top: 20px;
+  width: 100%;
+}
+
+th, td {
+  border: 1px dotted red;
+  padding: 10px;
+  text-align: center;
+}
+
+a {
+  padding: 20px;
+  color: purple;
+}
+
+a:hover {
+  color: white;
+}
